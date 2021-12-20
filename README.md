@@ -7,6 +7,6 @@
 [bocetos 2](boceto_cara_final)
 [bocetos 3](boceto_cuadricula)
 
-##Impresión final
+## Impresión final
 [video impresión](final)
 
