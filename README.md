@@ -9,5 +9,5 @@
 
 ## Impresión final
 [video impresión](https://github.com/Minitowers/MEMORIA-PROYECTE-ARDUINO/blob/main/impresio%CC%81n.mp4)
-https://github.com/Minitowers/MEMORIA-PROYECTE-ARDUINO/blob/main/impresio%CC%81n.mp4
+
 
