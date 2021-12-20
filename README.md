@@ -8,5 +8,5 @@
 [bocetos 3](boceto_cuadricula.png)
 
 ## Impresión final
-[video impresión](impresión.mp4)
+[video impresión](Impresión)
 
