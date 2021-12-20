@@ -3,10 +3,10 @@
 ## Memoria
 [memoria](memoria.pdf)
 ## Bocetos
-[bocetos 1](boceto_cara_1)
-[bocetos 2](boceto_cara_final)
-[bocetos 3](boceto_cuadricula)
+[bocetos 1](boceto_cara_1.png)
+[bocetos 2](boceto_cara_final.png)
+[bocetos 3](boceto_cuadricula.png)
 
 ## Impresión final
-[video impresión](final)
+[video impresión](final.mp4)
 
